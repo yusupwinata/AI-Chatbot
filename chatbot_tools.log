@@ -1,0 +1,2 @@
+2025-05-16 16:16:42,276 - root - DEBUG - Tool call: ChatCompletionMessageToolCall(id='call_id', function=Function(arguments='{"destination_city":"Bali"}', name='get_ticket_price'), type='function')
+2025-05-16 16:16:42,280 - root - DEBUG - Tool get_ticket_price called for Bali
